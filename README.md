@@ -1,4 +1,4 @@
-** 🔐 Secure Password Manager**
+**🔐 Secure Password Manager**
 
 A robust, local password manager built with Python and Tkinter. It uses strong AES encryption (Fernet) to securely store your credentials locally on your machine.
 
@@ -17,7 +17,7 @@ A robust, local password manager built with Python and Tkinter. It uses strong A
 * Python 3.x
 * `cryptography` library
 
-## ⚡ Usage
+**⚡ Usage**
 
 1.  Run the application:
     python main.py
@@ -27,7 +27,7 @@ A robust, local password manager built with Python and Tkinter. It uses strong A
       
 4.  **Login:** Enter your Master Password to unlock the vault.
 
-## 🛡️ Security Note
+**🛡️ Security Note**
 
 This application generates two files locally:
 * `vault.dat`: The encrypted database.
@@ -35,10 +35,9 @@ This application generates two files locally:
 
 **NEVER share or upload these two files.** They are strictly for your local machine.
 
-## 📜 License
+**📜 License**
 
 This project is open-source and available under the MIT License.
 
----
 **Developed by Abdul Rehman Ali**
 **Linkedin:** https://www.linkedin.com/in/abdul-rehman-ali-24964735b/
